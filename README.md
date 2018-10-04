@@ -32,7 +32,7 @@ Additional configurations can be made in file Config.cfg.
 
 8. Start server by double clicking file servermonitor.bat.
 
-For a full install and demo of these files, please refer to my install video on youtube at URL:
+For a full install and demo of these files, please refer to my install video on youtube at URL: https://www.youtube.com/watch?v=wvcj_VTXDPs
 
 ## Credits
 ***[ibattle.org](ibattle.org)***
